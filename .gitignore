@@ -1,0 +1,25 @@
+# Arduino IDE build directory and temporary files
+build/
+bin/
+layout.index
+.vs/
+.vscode/
+*.o
+*.a
+*.so
+*.d
+*.la
+*.lai
+*.lo
+*.loT
+
+# Embedded compilation artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang-format
+.gcc-flags.json
+
+# Core OS files
+.DS_Store
+Thumbs.db
